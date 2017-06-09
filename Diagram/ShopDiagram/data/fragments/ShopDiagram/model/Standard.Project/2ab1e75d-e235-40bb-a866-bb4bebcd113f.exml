@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="ShopDiagram" version="4">
+  <OBJECT>
+    <ID name="ShopDiagram" mc="Standard.Project" uid="2ab1e75d-e235-40bb-a866-bb4bebcd113f"/>
+    <ATTRIBUTES>
+      <ATT name="ProjectContext"></ATT>
+      <ATT name="ProjectDescr"></ATT>
+      <ATT name="Name"><![CDATA[ShopDiagram]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="Model">
+        <COMPID name="shopdiagram" mc="Standard.Package" uid="43900232-870e-48ee-adce-d3baf45edcad"/>
+      </COMP>
+      <COMP relation="DiagramRoot">
+        <COMPID name="ShopDiagram" mc="Infrastructure.DiagramSet" uid="760c98f5-8e26-493f-97ed-d60e2314129b"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
